@@ -16,4 +16,3 @@
 
 
 
-![Snake Animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake-dark.svg)
