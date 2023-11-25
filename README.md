@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Felipe Cassiano
-- 👀 I’m interested in freelancer jobs
 - 🌱 I’m currently learning Go, Python
 - 📫 How to reach me felipemcassiano@gmail.com
 - 16 years old
