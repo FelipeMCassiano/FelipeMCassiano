@@ -1,4 +1,3 @@
-<h3> &nbsp;Cassiano</h3>
 
 ## About Me :
 - 🇧🇷 I am brazilian
