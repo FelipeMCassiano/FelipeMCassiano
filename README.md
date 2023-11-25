@@ -1,8 +1,10 @@
-<h3> &nbsp;Cassiano: </h3>
+<h3> &nbsp;Cassiano</h3>
 
-
-- 👶 16 years
-- Learning Python 🐍 and Go 🐿️
+## About Me :
+- 🇧🇷 I am brazilian
+- 👶 16 years 
+- 📚 Autodidact
+- 📖 Currently learning Python 🐍 and Go 🐿️
 
 # 🛠 My Tools
 
@@ -11,7 +13,7 @@
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Mysql](https://img.shields.io/badge/MYSQL-FFA200?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 
