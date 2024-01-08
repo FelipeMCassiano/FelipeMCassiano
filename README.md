@@ -2,8 +2,7 @@
 ## About Me :
 - 🇧🇷 I am brazilian
 - 👶 16 years 
-- 📚 Autodidact
-- 📖 Currently learning Python 🐍 and Go 🐿️
+- 📖 Currently learning  and Go 🐿️
 
 # 🛠 My Tools
 
