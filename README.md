@@ -1,8 +1,8 @@
 
 ## About Me :
 - 🇧🇷 I am brazilian
-- 👶 16 years 
-- 📖 Currently learning  and Go 🐿️
+- 👶 17 years 
+- 📖 Currently learning Rust 🦀
 
 # 🛠 My Tools
 
