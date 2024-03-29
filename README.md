@@ -2,7 +2,7 @@
 ## About Me :
 - 🇧🇷 I am brazilian
 - 👶 17 years 
-- 📖 Currently learning Rust 🦀
+- 📖 Currently learning Typescript
 
 # 🛠 My Tools
 
