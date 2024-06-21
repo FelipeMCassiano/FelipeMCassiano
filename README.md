@@ -10,7 +10,7 @@
   
 ## Studying
 - English (B2 level currently)
-- Improving my Golang and Rust
+- Improving Golang and Rust
 - Learning Typescript and Aws Cloud
 
 ## Hobbies
