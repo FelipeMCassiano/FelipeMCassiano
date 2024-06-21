@@ -1,6 +1,8 @@
 ## Hi!, I'm Felipe Cassiano 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMCassiano&theme=rose_pine)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMCassiano&theme=rose_pine&show_icons=true)
+<div style="display: flex; justify-content: space-between;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMCassiano&theme=rose_pine&layout=compact" style="width: 34%;"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=FelipeMCassiano&theme=rose_pine&show_icons=true&layout=compact" style="width: 45%;"/>
+</div>
 
 ## About me
 - I'm 3rd year high school student.
