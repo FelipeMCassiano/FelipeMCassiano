@@ -1,13 +1,23 @@
-
-## About Me :
-- 🇧🇷 I am brazilian
-- 👶 17 years 
-- 📖 Currently learning Typescript
-
+## Hi!, I'm Felipe Cassiano 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMCassiano&theme=rose_pine)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMCassiano&theme=rose_pine&show_icons=true)
 
+## About me
+- I'm 3rd year high school student
+- Nova Friburgo, Brazil
+- I'm 17 years old and started programming when I was 16
+- I'm fond of taking on new challenges
+  
+## Studying
+- English (B2 level currently)
+- Improving my Golang and Rust
+- Learning Typescript and Aws Cloud
 
+## Hobbies
+- I love animes, some of my favorite are: Fullmetal Alchemist: Brotherhood, Jojo's Bizzare Adventure
+- 
+
+## Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
