@@ -19,6 +19,12 @@
 - I love animes, some of my favorite are: Fullmetal Alchemist: Brotherhood, Jojo's Bizzare Adventure and Hunter x Hunter.
 - Swimming is something I love too.
 
+## Most starred project
+- [goruvs](https://github.com/FelipeMCassiano/gorvus) - cli tool that generate Dockerfile and docker-compose.yml templates built with go
+
+## My favorite projects
+- [json parser](https://github.com/FelipeMCassiano/json-parser-rust) - json parser built with rust
+- [statera](https://github.com/FelipeMCassiano/statera) - load balancer built with rust that 
 ## Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
