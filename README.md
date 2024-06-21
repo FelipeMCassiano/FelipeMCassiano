@@ -15,7 +15,7 @@
 
 ## Hobbies
 - I love animes, some of my favorite are: Fullmetal Alchemist: Brotherhood, Jojo's Bizzare Adventure and Hunter x Hunter.
-- 
+- Swimming is something I love too.
 
 ## Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
