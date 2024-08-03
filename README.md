@@ -13,7 +13,7 @@
 ## Studying
 - English (B2 level currently).
 - Improving Golang and Rust.
-- Learning Typescript and Aws Cloud.
+- Learning C# and Aws Cloud.
 
 ## Hobbies
 - I love animes, some of my favorite are: Fullmetal Alchemist: Brotherhood, Jojo's Bizzare Adventure and Hunter x Hunter.
