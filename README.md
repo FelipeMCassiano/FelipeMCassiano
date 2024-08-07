@@ -23,8 +23,13 @@
 - [goruvs](https://github.com/FelipeMCassiano/gorvus) - cli tool that generate Dockerfile and docker-compose.yml templates built with go
 
 ## My favorite projects
-- [json parser](https://github.com/FelipeMCassiano/json-parser-rust) - json parser built with rust
-- [statera](https://github.com/FelipeMCassiano/statera) - load balancer built with rust
+- [json parser](https://github.com/FelipeMCassiano/json-parser-rust) - json parser built with rust.
+- [statera](https://github.com/FelipeMCassiano/statera) - load balancer built with rust.
+- [fukumu](https://github.com/FelipeMCassiano/Fukumu) - docker prototype.
+
+## Contributions
+- [anubis](https://github.com/kauefraga/anubis) - a load balancer built in Go.
+- [ruke](https://github.com/kauefraga/ruke) - a automation tool.
 ## Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
