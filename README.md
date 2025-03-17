@@ -5,9 +5,8 @@
 </div>
 
 ## About me
-- I'm 3rd year high school student.
 - Nova Friburgo, Brazil.
-- I'm 17 years old and started programming when I was 16.
+- I'm 18 years old and started programming when I was 16.
 - I'm fond of taking on new challenges.
   
 ## Studying
