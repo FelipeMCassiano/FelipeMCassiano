@@ -6,7 +6,7 @@
 
 ## About me
 - Nova Friburgo, Brazil.
-- I'm 18 years old and started programming when I was 16.
+- I'm 19 years old and started programming when I was 16.
 - I'm fond of taking on new challenges.
   
 ## Studying
